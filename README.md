@@ -13,3 +13,6 @@ https://prowebtype.com/
 
 **Typography for user interfaces**
 https://viljamis.com/2016/typography-for-user-interfaces/
+
+## API Design & REST
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
