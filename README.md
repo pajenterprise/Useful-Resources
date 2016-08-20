@@ -17,3 +17,7 @@ https://viljamis.com/2016/typography-for-user-interfaces/
 ## API Design & REST
 **Microsoft API guidelines**
 https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+
+## Security
+** Secure Passwod Hashing - Doing it Right**
+https://crackstation.net/hashing-security.htm
