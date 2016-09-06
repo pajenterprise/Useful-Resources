@@ -21,3 +21,6 @@ https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 ## Security
 **Secure Password Hashing - Doing it Right**
 https://crackstation.net/hashing-security.htm
+
+**NodeJS Security Checklist**
+https://blog.risingstack.com/node-js-security-checklist/
