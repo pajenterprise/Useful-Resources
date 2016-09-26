@@ -22,5 +22,12 @@ https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 **Secure Password Hashing - Doing it Right**
 https://crackstation.net/hashing-security.htm
 
+## NodeJS
+
 **NodeJS Security Checklist**
 https://blog.risingstack.com/node-js-security-checklist/
+
+**Simple guide to findind a JS memory leak in NodeJS**
+https://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/
+
+
